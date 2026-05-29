@@ -38,7 +38,7 @@ Seguir mejorando mis habilidades como desarrollador y construir proyectos reales
 <td width="40%">
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2xhNDV3MWFkMzMxbncyeXh5eWl4NThyMTQ1dTdsYnB5N2RuaGdpdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pOKrXLf9N5g76/giphy.webp" width="220"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGNkeHlxNW40bzhoNzI0dHd0djRtNDY3dWdjc2R3ZHpybG50N3VsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eJG93okDlbbMSWreuz/giphy.gif" width="220"/>
 </p>
 </td>
 
