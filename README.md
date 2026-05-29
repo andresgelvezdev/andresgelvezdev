@@ -37,8 +37,9 @@ Seguir mejorando mis habilidades como desarrollador y construir proyectos reales
 
 <td width="40%">
 
-<img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="250"/>
-
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2xhNDV3MWFkMzMxbncyeXh5eWl4NThyMTQ1dTdsYnB5N2RuaGdpdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pOKrXLf9N5g76/giphy.webp" width="220"/>
+</p>
 </td>
 
 </tr>
