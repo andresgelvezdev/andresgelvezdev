@@ -1,6 +1,6 @@
 # Hola 👋
 
-Soy Andrés Gelvez.
+Soy Andres Gelvez.
 
 💻 Aprendiendo:
 - Python
