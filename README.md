@@ -8,7 +8,10 @@
 
 ---
 
-<img align="right" width="280" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"/>
+<table>
+<tr>
+
+<td width="60%">
 
 ## 🚀 Sobre mí
 
@@ -29,6 +32,17 @@ Seguir mejorando mis habilidades como desarrollador y construir proyectos reales
 <a href="mailto:ing.andresgelvez@gmail.com">
   ing.andresgelvez@gmail.com
 </a>
+
+</td>
+
+<td width="40%">
+
+<img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="250"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -56,7 +70,6 @@ Seguir mejorando mis habilidades como desarrollador y construir proyectos reales
 
 ---
 
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -64,7 +77,6 @@ Seguir mejorando mis habilidades como desarrollador y construir proyectos reales
 </p>
 
 ---
-
 
 ## 🌐 Redes sociales
 
